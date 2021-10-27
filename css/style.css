@@ -1,0 +1,42 @@
+Body{
+    background-color: grey;
+}
+
+#title{
+      text-align: center;
+      font-size: 24px;
+}
+#img-div {
+    text-align: center;
+    display: block;
+    filter: grayscale(100%);
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+ }
+ 
+ img {
+   padding-top: 10px;
+   /* background-color: white; */
+  
+ }
+ ul li{
+ 
+  }
+  h3{
+      text-align: center;
+      padding: 30px;
+      margin: 20px;
+      font-size: 24px;
+  }
+
+  #tribute-info{
+     
+      margin-left: 300px;
+      margin-right: 300px;
+      font-size: 18px;
+      max-width: fit-content;
+
+  }
+ 
