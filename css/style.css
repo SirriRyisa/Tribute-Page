@@ -14,16 +14,16 @@ Body{
     background-color: white;
     padding: 20px;
     margin: 15px;
+    
  }
  
  img {
    padding-top: 10px;
    /* background-color: white; */
+   max-width: 100%;
   
  }
- ul li{
  
-  }
   h3{
       text-align: center;
       padding: 30px;
@@ -38,5 +38,9 @@ Body{
       font-size: 18px;
       max-width: fit-content;
 
+  }
+  #final-stage{
+      margin-top: 10px;
+      margin-bottom: 10px;
   }
  
